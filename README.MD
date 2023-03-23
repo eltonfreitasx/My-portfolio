@@ -26,8 +26,10 @@ NPM
 
 ## Installation
 
-### The application will open in the browser on 
-``` 
-http://localhost:5173/ 
+## The application will open in the browser on Live server <br/>
+```
+    http://127.0.0.1:5500/index.html
 ```
 <hr/>
+
+
