@@ -2,7 +2,7 @@
 
 ## Preview <br/><hr/>
 
-<img src="./src/assets/readme/apidigimon.jpg"/>
+![Sem título](https://user-images.githubusercontent.com/76684471/227331006-77e3c1b7-69b4-42fb-93f3-b0737987b7c5.png)
 <br/><br/>
 
 
