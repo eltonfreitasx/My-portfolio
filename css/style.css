@@ -114,6 +114,10 @@ ul {
   position: relative;
 }
 
+.row h3 {
+  color: var(--skin-color);
+}
+
 .btn {
   font-size: 16px;
   font-weight: 500;
@@ -537,7 +541,7 @@ h3.my-profession {
 
 .service .service-item {
   margin-bottom: 30px;
-  flex: 0 0 33.33%;
+  flex: 0 0 15.33%;
   max-width: 33.33%;
 }
 
@@ -625,6 +629,10 @@ h3.my-profession {
 .portfolio .portfolio-item-inner .portfolio-img img {
   width: 100%;
   display: block;
+}
+
+.portfolio .portfolio-item-inner .portfolio-img h3 {
+  text-align: center;
 }
 
 /**CONTACT*/
